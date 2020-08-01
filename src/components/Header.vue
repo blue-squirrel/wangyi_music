@@ -7,7 +7,7 @@
     </div>
     -->
   <div class="header" @click="changeTheme">
-    <!--注意点: 不能直接插槽设置样式-->
+    <!--注意点: 不能直接插槽设置 样式-->
     <div class="left">
       <slot name="left">左边</slot>
     </div>
