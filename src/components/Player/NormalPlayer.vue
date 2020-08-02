@@ -32,7 +32,7 @@ export default {
     PlayerMiddle,
     PlayerBottom
   },
-  computed: {
+  computed: { //  在计算属性中添加mapgetters，可以将VUEX中属性弄成局部属性，从而直接用this.iffullscreen使用
     ...mapGetters([
       'isFullScreen',
       'currentSong'
