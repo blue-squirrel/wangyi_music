@@ -22,7 +22,7 @@ export default {
       required: true
     }
   },
-  methods: {
+  methods: { // 引入了map方法,也是可以直接用this.方法 进行调用
     ...mapActions([
       'setFullScreen',
       'setSongDetail'
