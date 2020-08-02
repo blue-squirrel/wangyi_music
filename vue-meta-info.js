@@ -73,7 +73,7 @@ export default {
       },
       {
         name: 'description',
-        content: '这是一段网页的描述6'
+        content: '这是一段 网页的描述6'
       }
     ]
   }

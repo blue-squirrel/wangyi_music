@@ -22,7 +22,7 @@ export default {
 }
 /*
 1.单页Web应用（SPA - Single Page web Application）
-也就是说只有一个HTML文件的Web应用, 我们就称之为单页Web应用, 就称之为SPA应用
+也就是说只有一个HTML文件的Web应用, 我们就 称之为单页Web应用, 就称之为SPA应用
 我们通过Vue开发的项目其实就是典型的SPA应用
 
 2.SPA的特点:
