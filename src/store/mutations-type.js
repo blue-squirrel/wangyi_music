@@ -12,3 +12,5 @@ export const SET_FAVORITE_SONG = 'SET_FAVORITE_SONG'
 export const SET_FAVORITE_LIST = 'SET_FAVORITE_LIST'
 export const SET_HISTORY_SONG = 'SET_HISTORY_SONG'
 export const SET_HISTORY_LIST = 'SET_HISTORY_LIST'
+
+// 这个文件的作用是 用常量定义字符串 在引用函数的时候,就不需要写字符串,因为字符串如果写错了,不会报错
