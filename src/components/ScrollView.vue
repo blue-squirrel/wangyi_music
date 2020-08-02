@@ -52,7 +52,7 @@ export default {
         fn(this.y)
       })
     },
-    refresh () {
+    refresh () { // 刷新方法，可以给外接调用
       setTimeout(() => {
         this.iscroll.refresh()
       }, 100)
