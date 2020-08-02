@@ -1,7 +1,7 @@
 <template>
   <Header class="header">
     <div slot="left" class="header-left"></div>
-    <p slot="center" class="header-title">知播渔音乐</p>
+    <p slot="center" class="header-title">音乐播放器</p>
     <div slot="right" class="header-right" @click.stop="accountClick"></div>
   </Header>
 </template>
