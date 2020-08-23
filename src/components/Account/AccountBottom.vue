@@ -48,7 +48,7 @@ export default {
       // let ids = []
       if (this.switchNum === 0) {
         // ids = this.favoriteList.map(function (item) {
-        //   return item.id 
+        //   return item.id
         // })
         // this.$store.commit('SET_SONG_DETAIL', this.favoriteList)
         this.SET_SONG_DETAIL(this.favoriteList)
